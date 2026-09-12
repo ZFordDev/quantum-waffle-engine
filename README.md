@@ -1,7 +1,15 @@
 # quantum-waffle-engine
 Next-Generation High-Throughput Deterministic String Emission Architecture
 
+## Features
 
+### Complete
+
+- [x] Mock execution of the final product.
+
+### Planned
+
+- [ ] Tokenize payload for exacution. 
 
 ## License & Legal Compliance
 
